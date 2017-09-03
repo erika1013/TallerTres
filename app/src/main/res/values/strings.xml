@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Taller3</string>
+    <string name="str_1">10:49</string>
+    <string name="str_2">Sabado</string>
+    <string name="str_4">llamadas</string>
+    <string name="str_5">2</string>    >
+    <string name="str_22">29 Agosto 2017</string>
+    <string name="str_6">4</string>
+    <string name="str_7">Mensajes</string>
+    <string name="str_8">48</string>
+    <string name="str_9">Notificaciones</string>
+        <string name="str_bateria">Estado de bateria :91%</string>
+    <string name="str_ºm1">configuraciones</string>
+    <string name="str_m2">Opciones</string>
+    <string name="str_m3">Usuario</string>
+    <string name="str_ºm11"></string>
+
+
+</resources>
